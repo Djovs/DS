@@ -11,7 +11,7 @@ public class AreaRetangulo {
 		h = input.nextDouble();
 		a = b*h;
 		
-		System.out.println("A �rea � igual a: "+a);
+		System.out.println("A area e igual a: "+a);
 	}
 	
 	
