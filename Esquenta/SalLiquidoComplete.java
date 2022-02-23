@@ -11,7 +11,7 @@ public class SalLiquidoComplete {
 		System.out.println("Insira o valor da hora de  aula:");
 		hora = input.nextFloat();
 		
-		System.out.println("Insira o número das aulas dadas: ");
+		System.out.println("Insira o nÃºmero das aulas dadas: ");
 		aulas = input.nextInt();
 		
 		sal = hora*aulas;
